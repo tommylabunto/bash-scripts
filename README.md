@@ -6,14 +6,14 @@ If you want to automate these tedious tasks, you can download bash scripts to
     
     1. calculate the greatest common divisor and lowest common multiple quickly
 
-    ![](gcdLcm.gif)
+![](gif/gcdLcm.gif)
     
     2. calculate the length of a string
 
-    ![](stringLength.gif)
+![](gif/stringLength.gif)
 
     3. change the case of text to uppercase or lowercase
 
-    ![](changeStringCaps.gif)
+![](gif/changeStringCaps.gif)
     
 I'll add new scripts along the way if I have more ideas
