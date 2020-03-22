@@ -1,6 +1,6 @@
 # bash-scripts
 
-Have you ever been annoyed by some of the most menial tasks in work or just life in general? It's the kind of things that is actually not hard to do but its pretty tedious to do it. 
+Have you ever been annoyed by some of the most menial tasks in work or just life in general? It's the kind of things that are  not hard but rather tedious to actually do it. 
 
 If you want to automate these tedious tasks, you can download bash scripts to 
     
